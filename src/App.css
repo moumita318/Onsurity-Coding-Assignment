@@ -16,7 +16,7 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  margin-top:16px;
+  margin-top:14px;
 }
 
 li a:hover:not(.active) {
@@ -24,6 +24,89 @@ li a:hover:not(.active) {
 }
 
 .logo2{
-  margin-top:22px;
+  margin-top:20px;
 }
 
+.logo{
+  margin-top:6px;
+}
+
+main{
+  text-align: center;
+  margin-top:6%;
+}
+
+.picbox{
+  display:flex;
+}
+
+.box{
+  width:600px;
+  height:300px;
+  border-radius:15px;
+  border: 2px solid white;
+  margin-left:50px;
+  margin-top:200px;
+  padding:20px;
+  position:relative;
+  box-shadow: 1px 2px 8px 4px #DCDCDC;
+
+}
+
+.pic{
+  margin-left:60px;
+}
+
+button{
+  margin-top:40px;
+  margin-left:160px;
+  border-radius:6px;
+  width:140px;
+  border-color:#FF0000;
+  height:50px;
+  background:#FF0000;
+  box-shadow: 1px 2px 8px 4px #FF4500;
+  color:white;
+}
+
+.dropdowns{
+  width:500px;
+  height:40px;
+  border-radius:6px;
+  margin-top:30px;
+  margin-left:6px;
+}
+
+.topic{
+  text-align: center;
+  margin-top:100px;
+}
+.pictures{
+  display:flex;
+  padding:60px;
+  margin-left:80px;
+}
+.Insured{
+  margin-left:260px;
+
+}
+.SelectGIF{
+margin-left:260px;
+}
+.Device{
+  margin-bottom:60px;
+}
+
+h4{
+  text-align: center;
+}
+
+.description{
+  display:flex;
+}
+h3{
+  margin-left:180px;
+}
+.firstelement{
+  margin-right:60px;
+}

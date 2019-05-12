@@ -4,12 +4,16 @@ import './App.css';
 import Navigation from './Navigation.js';
 import MainContent from './MainContent.js';
 import Footer from './Footer.js';
-import logo from './logo.png';
+
+
 
 class App extends React.Component {
 	render(){
   return (
+  	<div>
   	<Navigation />
+  	<MainContent />
+  	</div>
   	);
 }
 }
