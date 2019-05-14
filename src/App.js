@@ -13,6 +13,7 @@ class App extends React.Component {
   	<div>
   	<Navigation />
   	<MainContent />
+  	<Footer />
   	</div>
   	);
 }

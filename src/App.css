@@ -6,6 +6,7 @@ ul {
   background-color: white;
 }
 
+
 li {
   float:right;
 }
@@ -87,11 +88,11 @@ button{
   margin-left:80px;
 }
 .Insured{
-  margin-left:260px;
+  margin-left:220px;
 
 }
 .SelectGIF{
-margin-left:260px;
+margin-left:240px;
 }
 .Device{
   margin-bottom:60px;
@@ -110,3 +111,46 @@ h3{
 .firstelement{
   margin-right:60px;
 }
+
+.lowerelement{
+  position:absolute;
+  background-color:#2F4F4F;
+  width:1540px;
+  height:258px;
+  color:white;
+  
+
+}
+.up{
+  display:flex;
+}
+
+.logofooter{
+  margin-left:80px;
+  margin-top:40px;
+}
+
+.text{
+  margin-top:100px;
+  margin-left:70px;
+}
+
+.nim{
+  background-color:#2F4F4F;
+}
+
+.bulletfirst {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  color:white;
+  margin-left:260px;
+  margin-top:50px;
+  display:block;
+}
+
+.bullet{
+  font-size:15px;
+  padding-bottom:4px;
+}
+
