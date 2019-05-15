@@ -8,11 +8,11 @@ class Navigation extends React.Component{
 			<div>	
 		
 <ul>
-  <li><img src={symbol} alt="logo2" className="logo2"/></li>
-  <li><a href="#claim">Claims</a></li>
-  <li><a href="#news">Login</a></li>
-  <li><a href="#contact">ContactUs</a></li>
-  <li><a href="#about">About</a></li>
+  <li class="navpoint"><img src={symbol} alt="logo2" className="logo2"/></li>
+  <li class="navpoint"><a href="#claim">Claims</a></li>
+  <li class="navpoint"><a href="#news">Login</a></li>
+  <li class="navpoint"><a href="#contact">ContactUs</a></li>
+  <li class="navpoint"><a href="#about">About</a></li>
   <img src={logo} alt="Logo" className="logo" />
   
 
